@@ -1,0 +1,11 @@
+{
+  "name": "startwithhttp",
+  "version": "1.0.0",
+  "description": "trying to learn the http methods ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ehsan Rahbari",
+  "license": "ISC"
+}
