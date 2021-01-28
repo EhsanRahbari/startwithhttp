@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ehsan Rahbari",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhsanRahbari/startwithhttp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EhsanRahbari/startwithhttp/issues"
+  },
+  "homepage": "https://github.com/EhsanRahbari/startwithhttp#readme"
 }
